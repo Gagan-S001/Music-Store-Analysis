@@ -1,6 +1,7 @@
 # 🎵 Music-Store-Analysis
 
 📌 Project Overview
+
 This project analyzes the Chinook database (a digital music store) to uncover insights about sales performance, customer behavior, churn rate, and market opportunities.
 The goal is to provide data-driven recommendations for boosting sales and improving customer retention in the physical music market.
 
