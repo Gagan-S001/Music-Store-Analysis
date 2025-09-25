@@ -7,8 +7,8 @@ The goal is to provide data-driven recommendations for boosting sales and improv
 
 🗂 Dataset
 The dataset is the Chinook sample database, which contains:
-- 11 tables (Albums, Artists, Customers, Employees, Genres, Invoices, InvoiceLines, MediaTypes, Playlists, Tracks, PlaylistTrack)
--- 37K+ records covering sales, customer details, and music catalog
+-11 tables (Albums, Artists, Customers, Employees, Genres, Invoices, InvoiceLines, MediaTypes, Playlists, Tracks, PlaylistTrack)
+-37K+ records covering sales, customer details, and music catalog
 -- Data across 59 countries
 
 🎯 Key Objectives
